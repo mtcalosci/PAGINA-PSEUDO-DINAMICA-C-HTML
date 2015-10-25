@@ -1,0 +1,9 @@
+Gianni Mario Fiorucci;Professore
+Matteo Calosci;Studente
+Laura Rosati;Professoressa
+Diego DeLeonardis;Studente
+Amedeo DiGaetano;Genio
+Rita Coccia;Preside
+Vescarelli;VicePreside
+Nicola Chinea;Studente
+Francesco Fratini;Maratoneta
